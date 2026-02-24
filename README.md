@@ -12,5 +12,11 @@ Use this Notebook - [https://drive.google.com/file/d/1OvRf711XL-stXuG_BuWOa0_6se
 
 # Software Installation 
 ## Phobius 
+Download Phobius: https://phobius.sbc.su.se/data.html 
+
+Unzip the file: 
+```
+tar -xvzf phobious101_linux.tgz
+```
 
 ## CD-Hit 
